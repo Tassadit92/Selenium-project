@@ -23,6 +23,7 @@ public class HomePageTest {
     public void test1(){
         System.out.println("this is a test");
         System.out.println("this is test1");
+        System.out.println("this is test2");
     }
 
 
